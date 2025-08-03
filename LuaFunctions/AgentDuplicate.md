@@ -10,7 +10,7 @@
 - ***boolean:*** *(optional)* 
 - ***Returns:*** Agent
 
-AgentDuplicate is a creating a clone of agent from the orginial agent. ***Example:*** Let's clone a Abel!
+AgentDuplicate is a creating a clone of agent from the orignial agent. ***Example:*** Let's clone a Abel!
 ```Lua
 AgentCreate("AbelDummy", "sk61_abel.prop", Vector(0,0,30), Vector(0,0,0), kScene, false, false);
 
